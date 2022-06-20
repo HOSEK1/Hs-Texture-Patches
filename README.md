@@ -1,8 +1,9 @@
-![pack](https://user-images.githubusercontent.com/100392072/174671610-70829000-f68a-4441-b8eb-f496c328545b.png)
-
 # HOSEK1's texture patches
 Minecraft texture patches I prefer.
-Includes emmisive ores. (You can use Optifine or Continuity mod)
+Includes emmisive ores. (You can use Optifine or Continuity mod) 
+
+![pack](https://user-images.githubusercontent.com/100392072/174671878-dcfb37ce-edb0-43f0-9bf5-8aa18ac9750a.png)
+
 
 Reccomended packs to use along: 
 [Developer art+](https://www.planetminecraft.com/texture-pack/developer-art-plus/)
