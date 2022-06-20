@@ -5,8 +5,11 @@ Includes emmisive ores. (You can use Optifine or Continuity mod)
 ![pack](https://user-images.githubusercontent.com/100392072/174671878-dcfb37ce-edb0-43f0-9bf5-8aa18ac9750a.png)
 
 
-Reccomended packs to use along: 
-[Developer art+](https://www.planetminecraft.com/texture-pack/developer-art-plus/)
+Reccomended stuff to use along: 
+
+- [Developer art+](https://www.planetminecraft.com/texture-pack/developer-art-plus/)
+
+- [My modrinth modpack](https://modrinth.com/modpack/hs-vanilla-patches) 
 ## How to install:
 Simply drag and drop the downloaded .zip into the resource pack selection screen or insert the .zip into your `.minecraft\resourcepacks` folder
 
@@ -43,8 +46,6 @@ Crafting table
 Brewing stand
 
 ![Brewing](https://user-images.githubusercontent.com/100392072/174671170-b31ad160-dd74-46ea-b9cd-6baa05cc09d1.png)
-
-
 
 ## Credits:
 Vanilla Tweaks: https://vanillatweaks.net/
