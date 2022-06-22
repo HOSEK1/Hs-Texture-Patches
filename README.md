@@ -1,4 +1,4 @@
-# HOSEK1's texture patches
+# HOSEK1's texture patches for Minecraft
 Minecraft texture patches I prefer.
 Includes emmisive ores. (You can use Optifine or Continuity mod) 
 
