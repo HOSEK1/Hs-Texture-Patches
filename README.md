@@ -15,9 +15,14 @@ Simply drag and drop the downloaded .zip into the resource pack selection screen
 
 ## Preview
 
-Glowing ores, in the good old shape. (except coal D: )
+The ores in the good old shape.
 
-![oresglow](https://user-images.githubusercontent.com/100392072/174668736-11e92bda-bd14-4b95-8200-8ead3bbb9310.png)
+![Ores](https://user-images.githubusercontent.com/100392072/175105437-8bcc3957-9144-4f84-a228-a34c2a39dde9.png)
+
+And they glow! (except coal D: )
+
+![OresGlowing](https://user-images.githubusercontent.com/100392072/175105401-5680b926-e0b4-4ae3-8aed-99c99e19865b.png)
+
 
 Menu
 
