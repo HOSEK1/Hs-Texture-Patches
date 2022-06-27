@@ -17,11 +17,11 @@ Simply drag and drop the downloaded .zip into the resource pack selection screen
 
 The ores in the good old shape.
 
-![Ores](https://user-images.githubusercontent.com/100392072/175105437-8bcc3957-9144-4f84-a228-a34c2a39dde9.png)
+![Ores](https://user-images.githubusercontent.com/100392072/176027698-7952254e-cd10-4f07-b0a5-90b9ea4cb16b.png)
 
 And they glow! (except coal D: )
 
-![OresGlowing](https://user-images.githubusercontent.com/100392072/175105401-5680b926-e0b4-4ae3-8aed-99c99e19865b.png)
+![OresGlowing](https://user-images.githubusercontent.com/100392072/176027717-bd45ee24-1935-4b86-8355-ed4c15e0baf7.png)
 
 
 Menu
